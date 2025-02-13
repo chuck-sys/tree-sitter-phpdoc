@@ -1,1 +1,7 @@
 /target
+node_modules
+build
+*.log
+.DS_Store
+examples
+.ccls-cache
